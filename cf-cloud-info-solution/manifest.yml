@@ -1,6 +1,5 @@
 applications:
 - name: cf-cloud-info-solution
-  memory: 512M
   # Add your name/initials to make the hostname unique
   host: cloud-info-solution-pcfdemo789987
   domain: cfapps.io
